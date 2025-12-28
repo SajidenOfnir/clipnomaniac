@@ -95,12 +95,12 @@ export default function MovieCard(props) {
 - **Constants**: UPPER_SNAKE_CASE (`API_BASE_URL`)
 
 ### File Organization
-src/
-├── components/
-│   └── movies/
-│       ├── MovieCard.tsx        # Component
-│       ├── MovieCard.test.tsx   # Tests
-│       └── index.ts             # Barrel export
+src/<br>
+├── components/<br>
+│   └── movies/<br>
+│       ├── MovieCard.tsx        # Component<br>
+│       ├── MovieCard.test.tsx   # Tests<br>
+│       └── index.ts             # Barrel export<br>
 
 ### CSS/Tailwind
 
