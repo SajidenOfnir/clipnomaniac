@@ -90,13 +90,13 @@ npm run preview  # Preview production build
 - **Fonts**: Orbitron, Inter
 
 ## 📂 Project Structure
-src/
-├── components/      # Reusable UI components
-├── features/        # Feature-based modules
-├── hooks/           # Custom React hooks
-├── services/        # API services
-├── types/           # TypeScript type definitions
-└── utils/           # Utility functions
+src/<br>
+├── components/      # Reusable UI components<br>
+├── features/        # Feature-based modules<br>
+├── hooks/           # Custom React hooks<br>
+├── services/        # API services<br>
+├── types/           # TypeScript type definitions<br>
+└── utils/           # Utility functions<br>
 
 ## 🎨 Key Features Explained
 
@@ -141,7 +141,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Sajiden Ofnir**  
+**SajidenOfnir**  
 GitHub: [@SajidenOfnir](https://github.com/SajidenOfnir)
 
 ---
